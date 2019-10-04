@@ -1,7 +1,5 @@
 # Deploy-On-AWS
 
-Deployed Website: http://shijingliuudacityproject1.s3-website.ca-central-1.amazonaws.com/index.html
-
 1. create a S3 bucket and upload the website files to the bucket. 
 ![image](https://user-images.githubusercontent.com/1591170/66215166-fe70df80-e690-11e9-973d-f60c6afc6f0a.png)
 2. configure the bucket for website hosting and secure it using IAM policies. 
@@ -12,3 +10,6 @@ Deployed Website: http://shijingliuudacityproject1.s3-website.ca-central-1.amazo
 4. access website in a browser using the unique CloudFront endpoint.
 ![image](https://user-images.githubusercontent.com/1591170/66216082-cff40400-e692-11e9-8cd3-4b7c58011282.png)
 
+
+
+###Deployed Website: http://shijingliuudacityproject1.s3-website.ca-central-1.amazonaws.com/index.html
