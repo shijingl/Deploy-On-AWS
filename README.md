@@ -8,3 +8,5 @@
 3. speed up content delivery using AWS’s content distribution network service, CloudFront.
 ![image](https://user-images.githubusercontent.com/1591170/66216014-adfa8180-e692-11e9-9a7e-8852d3d9bf47.png)
 4. access website in a browser using the unique CloudFront endpoint.
+![image](https://user-images.githubusercontent.com/1591170/66216082-cff40400-e692-11e9-8cd3-4b7c58011282.png)
+
